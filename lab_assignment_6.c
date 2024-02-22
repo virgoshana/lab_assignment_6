@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+
 // Use slides 9 + 10 on Binary Tree pwpint
 // use malloc function needs library
 int search(int numbers[], int low, int high, int value) 
